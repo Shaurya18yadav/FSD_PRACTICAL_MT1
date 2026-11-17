@@ -1,0 +1,12 @@
+{
+  "name": "set-a-library-book-management",
+  "version": "1.0.0",
+  "description": "Set A practical: Library Book Management API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
